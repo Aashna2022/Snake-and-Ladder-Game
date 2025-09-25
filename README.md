@@ -12,10 +12,10 @@ A C++ implementation of the classic Snakes and Ladders game with two players, di
 
 ---
 
-2) 🚀 How to Run
-   a)**Clone the repository**  
+2) 🚀 How to Run  
      ```bash
-     git clone <your-repo-link>
+    a)**Clone the repository**
+        git clone <your-repo-link>
 
     b) Navigate to the project folder
        cd SnakeLadderGame
